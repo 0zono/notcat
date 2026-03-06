@@ -1,0 +1,7 @@
+{
+  "name": "NotCat - Utility Integrity System",
+  "description": "An advanced monitoring system for water utility companies to detect potential illegal connections (gatos) by cross-referencing OpenStreetMap residential data with official consumer unit records.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
