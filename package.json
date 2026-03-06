@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/0zono/site-dardox.git",
+  "homepage": "https://moggedozono.com.br/",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
